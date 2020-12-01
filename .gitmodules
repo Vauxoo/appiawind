@@ -1,0 +1,4 @@
+[submodule "appiawind"]
+	path = appiawind
+	url = git@git.vauxoo.com:vauxoo/appiawind.git
+	branch = 14.0
